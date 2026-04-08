@@ -1,12 +1,12 @@
 (function () {
   "use strict";
   var imgs = [
-    "assets/images/alyona-chipchikova-PhFkcNN5x2w-unsplash.jpg",
-    "assets/images/arnaud-padalle-PO1Z_h-rWBY-unsplash.jpg",
-    "assets/images/julian-hochgesang-3-y9vq8uoxk-unsplash.jpg",
-    "assets/images/peter-herrmann-rcx1j8bi2yM-unsplash.jpg",
-    "assets/images/simon-kadula-8gr6bObQLOI-unsplash.jpg"
-  ];
+  "./assets/alyona-chipchikova-PhFkcNN5x2w-unsplash.jpg",
+  "./assets/arnaud-padalle-PO1Z_h-rWBY-unsplash.jpg",
+  "./assets/julian-hochgesang-3-y9vq8uoxk-unsplash.jpg",
+  "./assets/peter-herrmann-rcx1j8bi2yM-unsplash.jpg",
+  "./assets/simon-kadula-8gr6bObQLOI-unsplash.jpg"
+];
 
   var sh = document.getElementById("stickyHead");
   var nav = document.getElementById("mainNav");
